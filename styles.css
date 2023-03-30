@@ -23,15 +23,22 @@ p {
   color: #8097A6;
 }
 
+.overlap {
+  display:flex;
+  justify-content: flex-end;
+  padding:5px;
+  width:100%;
+  box-sizing: border-box;
+}
 .attribution {
-  position: absolute;
-  right: 20px;
-  bottom: 20px;
+  margin-top: auto;
+  margin-left: auto;
   font-size: 0.8rem;
   padding: 10px;
   border-radius: 5px;
   color: darkgrey;
   box-shadow: 1px 2px 5px 1px rgba(255,255,255, 0.2);
+  text-align: center;
 }
 
 a {
