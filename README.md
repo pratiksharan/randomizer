@@ -7,5 +7,7 @@ I just wanted to play around with **DOM manipulation** and make something intera
 
 Everything runs client-side and it’s hosted on GitHub Pages.
 
-[![Randomizer Screenshot]Screenshot 2025-10-07 002828.png)](https://pratiksharan.github.io/randomizer/)
+[![Randomizer Screenshot](https://github.com/pratiksharan/Randomizer/blob/master/Screenshot%202025-10-07%20002828.png)](https://pratiksharan.github.io/randomizer/)
+
+
 
